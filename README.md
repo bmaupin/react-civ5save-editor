@@ -1,1 +1,1 @@
-Minimal redirect for https://github.com/bmaupin/civ5save-editor
+See https://github.com/bmaupin/civ5save-editor
